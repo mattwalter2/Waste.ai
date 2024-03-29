@@ -1,0 +1,5 @@
+Flask-CORS
+flask
+Pillow
+ultralytics
+gunicorn

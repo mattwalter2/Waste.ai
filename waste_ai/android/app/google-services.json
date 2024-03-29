@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532752999780",
+    "project_id": "biowatch-c28c5",
+    "storage_bucket": "biowatch-c28c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532752999780:android:55ec6c2059b156f5e80671",
+        "android_client_info": {
+          "package_name": "com.example.waste_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeesHaz6rzV0csaXHZTzrsKM18uM0FQqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
